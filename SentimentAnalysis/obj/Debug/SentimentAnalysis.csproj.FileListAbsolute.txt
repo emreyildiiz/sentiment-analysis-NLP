@@ -1,0 +1,33 @@
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\agq\SentimentAnalysis.resources.dll
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csprojAssemblyReference.cache
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.resources
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Properties.Resources.resources
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.agq.resources
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.GenerateResource.cache
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\agq\SentimentAnalysis.resources.dll
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Sınıf_Seç.resources
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.TahminForm.resources
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\NZemberek.dll
+C:\Users\emrem\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.CopyComplete
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe.config
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\bin\Debug\agq\SentimentAnalysis.resources.dll
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\bin\Debug\NZemberek.dll
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csprojAssemblyReference.cache
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.resources
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Properties.Resources.resources
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Sınıf_Seç.resources
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.TahminForm.resources
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.Form1.agq.resources
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.GenerateResource.cache
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.CoreCompileInputs.cache
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\agq\SentimentAnalysis.resources.dll
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.csproj.CopyComplete
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.exe
+F:\Okul\Veri Madenciliği ve Metin ve Web\SentimentAnalysis\SentimentAnalysis\obj\Debug\SentimentAnalysis.pdb
